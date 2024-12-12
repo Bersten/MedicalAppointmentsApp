@@ -274,3 +274,4 @@ C:\Users\Administrateur\Documents\MedicalAppointmentsApp\obj\Debug\net8.0\refint
 C:\Users\Administrateur\Documents\MedicalAppointmentsApp\obj\Debug\net8.0\MedicalAppointmentsApp.pdb
 C:\Users\Administrateur\Documents\MedicalAppointmentsApp\obj\Debug\net8.0\MedicalAppointmentsApp.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\MedicalAppointmentsApp\obj\Debug\net8.0\ref\MedicalAppointmentsApp.dll
+C:\Users\Administrateur\Documents\MedicalAppointmentsApp\obj\Debug\net8.0\MedicalAppointmentsApp.sourcelink.json

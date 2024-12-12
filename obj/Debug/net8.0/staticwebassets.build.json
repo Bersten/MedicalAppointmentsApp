@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gIDB/q2Vd6ImJ+IeAjNlEGdl9gu6U6PBQ6TcjiIyty0=",
+  "Hash": "XCDYRP2GY/fIm3OU04xSjeCRq5DP4L5S+iIkDyv9hEg=",
   "Source": "MedicalAppointmentsApp",
   "BasePath": "_content/MedicalAppointmentsApp",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Administrateur\\Documents\\MedicalAppointmentsApp\\wwwroot\\img\\communicationmedicalimage.jpeg",
+      "SourceId": "MedicalAppointmentsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrateur\\Documents\\MedicalAppointmentsApp\\wwwroot\\",
+      "BasePath": "_content/MedicalAppointmentsApp",
+      "RelativePath": "img/communicationmedicalimage.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\communicationmedicalimage.jpeg"
     },
     {
       "Identity": "C:\\Users\\Administrateur\\Documents\\MedicalAppointmentsApp\\wwwroot\\js\\site.js",

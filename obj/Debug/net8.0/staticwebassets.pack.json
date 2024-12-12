@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Administrateur\\Documents\\MedicalAppointmentsApp\\wwwroot\\img\\communicationmedicalimage.jpeg",
+      "PackagePath": "staticwebassets\\img\\communicationmedicalimage.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Administrateur\\Documents\\MedicalAppointmentsApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
